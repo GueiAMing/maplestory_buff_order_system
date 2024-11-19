@@ -1,7 +1,7 @@
 # 專案名稱
 **maplestory_buff_order_system**
 
-![專案徽標或截圖](/static/001.png)[這是一個連結](https://aws01.mingbuff.online/)
+![專案徽標或截圖](/static/001.png)[部屬網站](https://aws01.mingbuff.online/)
 
 ## 目錄
 
