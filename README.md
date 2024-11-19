@@ -2,7 +2,7 @@
 
 
 ### Web Basic Info:
-- Website URL:[https://aws01.mingbuff.online/](https://aws01.mingbuff.online/)
+- Website URL : [https://aws01.mingbuff.online/](https://aws01.mingbuff.online/)
 
 ## 目錄
 
